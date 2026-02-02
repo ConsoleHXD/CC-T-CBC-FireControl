@@ -1,4 +1,4 @@
-# CC-T-CBC-FireContorl
+# CC-T-CBC-FireControl
 使用CC:T CC:VS 控制学等 和别人边玩边写的火控 还加了一些简单的预判
 
 `n`为发射药药量 * 2
